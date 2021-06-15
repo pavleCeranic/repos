@@ -1,0 +1,6 @@
+C:\Users\pavle\source\repos\ChessBoardModel\bin\Debug\ChessBoardModel.dll
+C:\Users\pavle\source\repos\ChessBoardModel\bin\Debug\ChessBoardModel.pdb
+C:\Users\pavle\source\repos\ChessBoardModel\obj\Debug\ChessBoardModel.csprojAssemblyReference.cache
+C:\Users\pavle\source\repos\ChessBoardModel\obj\Debug\ChessBoardModel.csproj.CoreCompileInputs.cache
+C:\Users\pavle\source\repos\ChessBoardModel\obj\Debug\ChessBoardModel.dll
+C:\Users\pavle\source\repos\ChessBoardModel\obj\Debug\ChessBoardModel.pdb

@@ -1,0 +1,10 @@
+C:\Users\pavle\source\repos\CoinFlip\bin\Debug\CoinFlip.exe.config
+C:\Users\pavle\source\repos\CoinFlip\bin\Debug\CoinFlip.exe
+C:\Users\pavle\source\repos\CoinFlip\bin\Debug\CoinFlip.pdb
+C:\Users\pavle\source\repos\CoinFlip\obj\Debug\CoinFlip.csprojAssemblyReference.cache
+C:\Users\pavle\source\repos\CoinFlip\obj\Debug\CoinFlip.Form1.resources
+C:\Users\pavle\source\repos\CoinFlip\obj\Debug\CoinFlip.Properties.Resources.resources
+C:\Users\pavle\source\repos\CoinFlip\obj\Debug\CoinFlip.csproj.GenerateResource.cache
+C:\Users\pavle\source\repos\CoinFlip\obj\Debug\CoinFlip.csproj.CoreCompileInputs.cache
+C:\Users\pavle\source\repos\CoinFlip\obj\Debug\CoinFlip.exe
+C:\Users\pavle\source\repos\CoinFlip\obj\Debug\CoinFlip.pdb

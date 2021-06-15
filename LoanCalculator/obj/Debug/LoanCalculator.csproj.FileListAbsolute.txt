@@ -1,0 +1,10 @@
+C:\Users\pavle\source\repos\LoanCalculator\bin\Debug\LoanCalculator.exe.config
+C:\Users\pavle\source\repos\LoanCalculator\bin\Debug\LoanCalculator.exe
+C:\Users\pavle\source\repos\LoanCalculator\bin\Debug\LoanCalculator.pdb
+C:\Users\pavle\source\repos\LoanCalculator\obj\Debug\LoanCalculator.csprojAssemblyReference.cache
+C:\Users\pavle\source\repos\LoanCalculator\obj\Debug\LoanCalculator.Form1.resources
+C:\Users\pavle\source\repos\LoanCalculator\obj\Debug\LoanCalculator.Properties.Resources.resources
+C:\Users\pavle\source\repos\LoanCalculator\obj\Debug\LoanCalculator.csproj.GenerateResource.cache
+C:\Users\pavle\source\repos\LoanCalculator\obj\Debug\LoanCalculator.csproj.CoreCompileInputs.cache
+C:\Users\pavle\source\repos\LoanCalculator\obj\Debug\LoanCalculator.exe
+C:\Users\pavle\source\repos\LoanCalculator\obj\Debug\LoanCalculator.pdb

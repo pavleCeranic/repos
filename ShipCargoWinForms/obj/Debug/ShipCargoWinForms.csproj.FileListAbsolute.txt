@@ -1,0 +1,10 @@
+C:\Users\pavle\source\repos\ShipCargoWinForms\bin\Debug\ShipCargoWinForms.exe.config
+C:\Users\pavle\source\repos\ShipCargoWinForms\bin\Debug\ShipCargoWinForms.exe
+C:\Users\pavle\source\repos\ShipCargoWinForms\bin\Debug\ShipCargoWinForms.pdb
+C:\Users\pavle\source\repos\ShipCargoWinForms\obj\Debug\ShipCargoWinForms.csprojAssemblyReference.cache
+C:\Users\pavle\source\repos\ShipCargoWinForms\obj\Debug\ShipCargoWinForms.Form1.resources
+C:\Users\pavle\source\repos\ShipCargoWinForms\obj\Debug\ShipCargoWinForms.Properties.Resources.resources
+C:\Users\pavle\source\repos\ShipCargoWinForms\obj\Debug\ShipCargoWinForms.csproj.GenerateResource.cache
+C:\Users\pavle\source\repos\ShipCargoWinForms\obj\Debug\ShipCargoWinForms.csproj.CoreCompileInputs.cache
+C:\Users\pavle\source\repos\ShipCargoWinForms\obj\Debug\ShipCargoWinForms.exe
+C:\Users\pavle\source\repos\ShipCargoWinForms\obj\Debug\ShipCargoWinForms.pdb

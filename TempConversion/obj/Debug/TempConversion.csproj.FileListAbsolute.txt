@@ -1,0 +1,10 @@
+C:\Users\pavle\source\repos\TempConversion\bin\Debug\TempConversion.exe.config
+C:\Users\pavle\source\repos\TempConversion\bin\Debug\TempConversion.exe
+C:\Users\pavle\source\repos\TempConversion\bin\Debug\TempConversion.pdb
+C:\Users\pavle\source\repos\TempConversion\obj\Debug\TempConversion.Properties.Resources.resources
+C:\Users\pavle\source\repos\TempConversion\obj\Debug\TempConversion.csproj.GenerateResource.cache
+C:\Users\pavle\source\repos\TempConversion\obj\Debug\TempConversion.csproj.CoreCompileInputs.cache
+C:\Users\pavle\source\repos\TempConversion\obj\Debug\TempConversion.exe
+C:\Users\pavle\source\repos\TempConversion\obj\Debug\TempConversion.pdb
+C:\Users\pavle\source\repos\TempConversion\obj\Debug\TempConversion.Form1.resources
+C:\Users\pavle\source\repos\TempConversion\obj\Debug\TempConversion.csprojAssemblyReference.cache

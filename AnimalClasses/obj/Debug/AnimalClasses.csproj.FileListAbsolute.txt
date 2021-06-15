@@ -1,0 +1,7 @@
+C:\Users\pavle\source\repos\AnimalClasses\bin\Debug\AnimalClasses.exe.config
+C:\Users\pavle\source\repos\AnimalClasses\bin\Debug\AnimalClasses.exe
+C:\Users\pavle\source\repos\AnimalClasses\bin\Debug\AnimalClasses.pdb
+C:\Users\pavle\source\repos\AnimalClasses\obj\Debug\AnimalClasses.csprojAssemblyReference.cache
+C:\Users\pavle\source\repos\AnimalClasses\obj\Debug\AnimalClasses.csproj.CoreCompileInputs.cache
+C:\Users\pavle\source\repos\AnimalClasses\obj\Debug\AnimalClasses.exe
+C:\Users\pavle\source\repos\AnimalClasses\obj\Debug\AnimalClasses.pdb

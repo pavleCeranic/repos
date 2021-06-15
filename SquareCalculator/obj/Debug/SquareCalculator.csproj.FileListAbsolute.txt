@@ -1,0 +1,10 @@
+C:\Users\pavle\source\repos\SquareCalculator\bin\Debug\SquareCalculator.exe.config
+C:\Users\pavle\source\repos\SquareCalculator\bin\Debug\SquareCalculator.exe
+C:\Users\pavle\source\repos\SquareCalculator\bin\Debug\SquareCalculator.pdb
+C:\Users\pavle\source\repos\SquareCalculator\obj\Debug\SquareCalculator.csprojAssemblyReference.cache
+C:\Users\pavle\source\repos\SquareCalculator\obj\Debug\SquareCalculator.Form1.resources
+C:\Users\pavle\source\repos\SquareCalculator\obj\Debug\SquareCalculator.Properties.Resources.resources
+C:\Users\pavle\source\repos\SquareCalculator\obj\Debug\SquareCalculator.csproj.GenerateResource.cache
+C:\Users\pavle\source\repos\SquareCalculator\obj\Debug\SquareCalculator.csproj.CoreCompileInputs.cache
+C:\Users\pavle\source\repos\SquareCalculator\obj\Debug\SquareCalculator.exe
+C:\Users\pavle\source\repos\SquareCalculator\obj\Debug\SquareCalculator.pdb

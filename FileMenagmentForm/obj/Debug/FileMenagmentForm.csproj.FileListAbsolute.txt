@@ -1,0 +1,10 @@
+C:\Users\pavle\source\repos\FileMenagmentForm\bin\Debug\FileMenagmentForm.exe.config
+C:\Users\pavle\source\repos\FileMenagmentForm\bin\Debug\FileMenagmentForm.exe
+C:\Users\pavle\source\repos\FileMenagmentForm\bin\Debug\FileMenagmentForm.pdb
+C:\Users\pavle\source\repos\FileMenagmentForm\obj\Debug\FileMenagmentForm.csprojAssemblyReference.cache
+C:\Users\pavle\source\repos\FileMenagmentForm\obj\Debug\FileMenagmentForm.Form1.resources
+C:\Users\pavle\source\repos\FileMenagmentForm\obj\Debug\FileMenagmentForm.Properties.Resources.resources
+C:\Users\pavle\source\repos\FileMenagmentForm\obj\Debug\FileMenagmentForm.csproj.GenerateResource.cache
+C:\Users\pavle\source\repos\FileMenagmentForm\obj\Debug\FileMenagmentForm.csproj.CoreCompileInputs.cache
+C:\Users\pavle\source\repos\FileMenagmentForm\obj\Debug\FileMenagmentForm.exe
+C:\Users\pavle\source\repos\FileMenagmentForm\obj\Debug\FileMenagmentForm.pdb

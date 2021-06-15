@@ -1,0 +1,7 @@
+C:\Users\pavle\source\repos\CargoShipLoader\bin\Debug\CargoShipLoader.exe.config
+C:\Users\pavle\source\repos\CargoShipLoader\bin\Debug\CargoShipLoader.exe
+C:\Users\pavle\source\repos\CargoShipLoader\bin\Debug\CargoShipLoader.pdb
+C:\Users\pavle\source\repos\CargoShipLoader\obj\Debug\CargoShipLoader.csprojAssemblyReference.cache
+C:\Users\pavle\source\repos\CargoShipLoader\obj\Debug\CargoShipLoader.csproj.CoreCompileInputs.cache
+C:\Users\pavle\source\repos\CargoShipLoader\obj\Debug\CargoShipLoader.exe
+C:\Users\pavle\source\repos\CargoShipLoader\obj\Debug\CargoShipLoader.pdb
